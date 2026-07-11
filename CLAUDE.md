@@ -1,7 +1,7 @@
 # classroom-tools — 我的班級工具總專案
 
 ## 對話開始時請先讀
-進度與最近更動都在 Obsidian：`ObsidianVault/classroom-tools/工作筆記.md`
+進度與最近更動都在 Obsidian：`secondbrain/classroom-tools/工作筆記.md`
 
 ## 工作模式
 - **加新工具**：對 Claude 說「我想做一個 XXX 工具」→ Claude 會建 `tools/<工具名>/` 子資料夾、引導我跟著 EP10 影片做
@@ -11,7 +11,7 @@
 ## 工作桌 + 三個家
 - 📋 GDrive 工作桌：`G:\我的雲端硬碟\classroom-tools\`（自動跨電腦同步）
 - 🐙 GitHub repo：`fonbuz-ai/classroom-tools`（公開，網頁的家）
-- 📘 Obsidian 駕駛艙：`ObsidianVault/classroom-tools/工作筆記.md`（想法的家）
+- 📘 Obsidian 駕駛艙：`secondbrain/classroom-tools/工作筆記.md`（想法的家）
 - 🔥 Firebase 專案：`my-teaching-tools`（或你建的，資料的家）
 
 ## 工具清單
